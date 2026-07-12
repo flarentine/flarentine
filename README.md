@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**flarentine/flarentine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/736x/b0/0e/5b/b00e5b4fa7673956409e584386ea6a5f.jpg" width="35%">
 
-Here are some ideas to get you started:
+**Hi,** I'm Flarentine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Penetration testing & exploit development.
+
+</div>
+
+```
+Location   South Africa
+Focus      Offensive security
